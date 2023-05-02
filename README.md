@@ -1,7 +1,9 @@
-Note: Please ensure you have installed nodejs
+# Tokenere
+
+Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
 To preview and run the project on your device:
 
-Open project folder in Visual Studio Code
-In the terminal, run npm install or yarn
-Run npm start to view project in browser.
+1. Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+2. In the terminal, run `npm install or yarn`
+3. Run `npm start` to view project in browser
